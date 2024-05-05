@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+  <html>
+    <body>
+    <h1>Redirecting...<div id="counter">1</div> </h1>
+    
+    <script>
+        setInterval(function() {
+            var div = document.querySelector("#counter");
+            var count = div.textContent * 1 - 1;
+            div.textContent = count;
+            if (count == 0) {
+                window.location.assign("https://www.highcpmgate.com/s95r30t1n?key=37511c0ed4a09d8981528da2aa7dcff7");
+            }
+        }, 1000);
+    </script>
+</body>
+  	<body>
+                
+  		<h2>If you are not redirected automatically, server is Broken/Down!</h2>
+
+<img src="https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_FMjpg_UX1000_.jpg">
+
+  	</body>
+
+  </html>
